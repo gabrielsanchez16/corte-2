@@ -187,7 +187,7 @@ Al finalizar el taller se espera:
 ## Clonar el repositorio
 
 ```bash
-git clone https://github.com/usuario/repositorio.git
+git clone https://github.com/gabrielsanchez16/corte-2.git
 ```
 
 ## Abrir en Google Colab
